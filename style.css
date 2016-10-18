@@ -10,11 +10,7 @@ body{
 	background: lavender;
 }
 .wrap{
-	width: 90%;
-	height: 500px;
-	background: pink;
-	margin: 0 auto;
-	margin-top: 10vh;
+	width: 90%;	
 }
 #time{
 	padding-top: 20vh;
