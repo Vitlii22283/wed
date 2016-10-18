@@ -20,3 +20,7 @@ body{
 	display: flex;
 	justify-content: space-around;
 }
+.wednesday{
+	font-size: 2em;
+	margin-top: 100px;
+}
